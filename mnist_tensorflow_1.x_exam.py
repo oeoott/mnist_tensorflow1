@@ -108,4 +108,3 @@ with tf.Session() as sess:
     df = pd.DataFrame(data)
     print(df)  
     print() 
-    
